@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "size": {
+        "x": 9,
+        "y": 9
+    },
+    "states": [
+        {
+            "name": "spark",
+            "directions": 1,
+            "delays": [
+                [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        }
+    ]
+}
